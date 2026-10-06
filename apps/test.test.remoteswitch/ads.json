@@ -1,5 +1,5 @@
 {
   "version": 1,
-  "cpaactive": true,
-  "adsactive": false
+  "cpaactive": false,
+  "adsactive": true
 }

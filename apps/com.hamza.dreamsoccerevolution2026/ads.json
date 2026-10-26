@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "adsactive": true,
-  "cpaactive": true,
+  "adsactive": false,
+  "cpaactive": false,
   "previewactive": true
 }
